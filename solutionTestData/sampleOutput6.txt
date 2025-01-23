@@ -1,0 +1,107 @@
+total songs: 0
+total artists: 0
+There are 0 connected components
+The largest connected component has 0 elements
+|a1| is added to the Artist database.
+|song1| is added to the Song database.
+|song2| is added to the Song database.
+|song3| is added to the Song database.
+|a2| is added to the Artist database.
+|song4| is added to the Song database.
+|song5| is added to the Song database.
+|a3| is added to the Artist database.
+Song hash table size doubled.
+|song6| is added to the Song database.
+|song7| is added to the Song database.
+|a4| is added to the Artist database.
+|song8| is added to the Song database.
+|song9| is added to the Song database.
+|a5| is added to the Artist database.
+|song10| is added to the Song database.
+Song hash table size doubled.
+|song11| is added to the Song database.
+Artist hash table size doubled.
+|a6| is added to the Artist database.
+|song12| is added to the Song database.
+|song13| is added to the Song database.
+|a7| is added to the Artist database.
+|song14| is added to the Song database.
+|song15| is added to the Song database.
+|a8| is added to the Artist database.
+|song16| is added to the Song database.
+|song17| is added to the Song database.
+|a9| is added to the Artist database.
+|song18| is added to the Song database.
+|song19| is added to the Song database.
+0: |song15|
+4: |song12|
+5: |song13|
+8: |song18|
+12: |song11|
+13: |song16|
+20: |song14|
+21: |song19|
+24: |song17|
+28: |song1|
+29: |song2|
+30: |song3|
+31: |song4|
+32: |song5|
+33: |song6|
+34: |song7|
+35: |song8|
+36: |song9|
+37: |song10|
+total songs: 19
+1: |a1|
+2: |a6|
+5: |a5|
+9: |a4|
+10: |a9|
+13: |a3|
+14: |a8|
+17: |a2|
+18: |a7|
+total artists: 9
+There are 1 connected components
+The largest connected component has 28 elements
+|a10| is added to the Artist database.
+|a10| is added to the Artist database.
+|song20| is added to the Song database.
+|a10| is added to the Artist database.
+Song hash table size doubled.
+|song21| is added to the Song database.
+4: |song13|
+5: |song18|
+20: |song14|
+21: |song19|
+36: |song15|
+37: |song10|
+38: |song20|
+52: |song11|
+53: |song16|
+54: |song21|
+68: |song12|
+69: |song17|
+70: |song2|
+71: |song3|
+72: |song1|
+73: |song5|
+74: |song6|
+75: |song4|
+76: |song8|
+77: |song9|
+78: |song7|
+total songs: 21
+1: |a1|
+2: |a6|
+5: |a5|
+9: |a4|
+10: |a9|
+13: |a3|
+14: |a8|
+17: |a2|
+18: |a7|
+total artists: 9
+There are 3 connected components
+The largest connected component has 29 elements

@@ -1,0 +1,17 @@
+print artist
+insert John2<SEP>title1
+insert John3<SEP>title2
+print artist
+remove artist artist1
+remove artist artist2
+remove artist artist3
+remove artist artist4
+remove artist artist5
+remove artist John
+remove artist Bob
+print artist
+insert John6<SEP>title1
+insert John3<SEP>title1
+insert John2<SEP>title1
+insert Joh37<SEP>title1
+print artist

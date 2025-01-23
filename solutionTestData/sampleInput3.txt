@@ -1,0 +1,24 @@
+remove artist artist1
+remove artist artist2
+remove artist artist3
+remove artist artist4
+remove artist artist5
+remove artist Blind Lemon Jefferson
+remove artist Ma Rainey
+print song
+print artist
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Blind Lemon Jefferson<SEP>Long   Lonesome Blues
+insert Blind Lemon Jefferson<SEP>long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+insert Ma Rainey<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Mississippi Boweavil Blues
+insert Ma Rainey<SEP>Fixin' To Die Blues
+print artist
+print song
+insert artist1<SEP>title1
+insert artist2<SEP>title2
+insert artist3<SEP>title3
+insert artist4<SEP>title4
+insert artist5<SEP>title5
+print artist

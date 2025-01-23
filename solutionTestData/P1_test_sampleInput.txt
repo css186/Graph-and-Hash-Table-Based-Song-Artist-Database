@@ -1,0 +1,11 @@
+print song
+print artist
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Blind Lemon Jefferson<SEP>Long   Lonesome Blues
+insert Blind Lemon Jefferson<SEP>long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+insert Ma Rainey<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Mississippi Boweavil Blues
+insert Ma Rainey<SEP>Fixin' To Die Blues
+print artist
+print song
