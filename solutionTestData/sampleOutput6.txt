@@ -65,10 +65,7 @@ total songs: 19
 total artists: 9
 There are 1 connected components
 The largest connected component has 28 elements
-|a10| is added to the Artist database.
-|a10| is added to the Artist database.
 |song20| is added to the Song database.
-|a10| is added to the Artist database.
 Song hash table size doubled.
 |song21| is added to the Song database.
 4: |song13|
